@@ -20,6 +20,9 @@ I'm an incoming computer engineering junior transfer student at [UC San Diego](h
 ## :link: Important Links
 [__Linkedin__](https://www.linkedin.com/in/kencasimiro/) • [__Website__](google.com) • [__Email__](mailto:kennethreyescasimiro@gmail.com)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 <!--
 **kencasimiro/kencasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
