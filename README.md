@@ -1,10 +1,13 @@
 ## 👋🏼 Hey, I'm Ken! 
 
-I'm currently a 3rd year computer engineering major at UC San Diego doing software development on the side. I go to a bunch of hackathons and contribute to open source projects in my free time. Thanks for visiting my profile! 
+I'm currently a 3rd year computer engineering major at [UC San Diego](https://ucsd.edu) doing software development on the side. I go to a bunch of hackathons and contribute to open source projects in my free time. Thanks for visiting my profile! 
 
-## 🔷 Activities and Involvements
+## 🔷 Professional Experience
 
-*  Hobbyist programmer now doing supercomputer stuff. Interning as a software engineer intern this summer at Berkeley Lab.
+*  **Currently** a Software Engineer Intern at [Berkeley Lab](https://ucsd.edu) Summer 2021
+*  🚀 Research Intern at [NASA JPL](https://www.jpl.nasa.gov) Spring 2021
+*  🐜 Research Fellow at Base 11 - UC Irvine Autonomous Systems Engineering Academy Summer 2020
+*  📚 Computer Science Tutor at Saddleback College Summer 2019 - Summer 2021
 
 <!--
 **kencasimiro/kencasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
