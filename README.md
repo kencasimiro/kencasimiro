@@ -1,6 +1,6 @@
 ## 👋🏼 Hey, I'm Ken! 
 
-I'm currently a 3rd year computer engineering major at [UC San Diego](https://ucsd.edu) doing software development on the side. I go to a bunch of hackathons and contribute to open source projects in my free time. Thanks for visiting my profile! 
+I'm currently a 3rd year computer engineering major at [UC San Diego](https://ucsd.edu) doing software development on the side. This summer I am interning at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
 
 ## 🔷 Professional Experience
 
