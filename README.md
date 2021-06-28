@@ -1,6 +1,6 @@
 ## 👋🏼 Hey, I'm Kenneth! 
 
-I'm currently a 3rd year computer engineering major at [UC San Diego](https://ucsd.edu) doing software development on the side. This summer I am interning at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
+I'm an incoming computer engineering junior transfer student at [UC San Diego](https://ucsd.edu) doing software development on the side. This summer I am interning at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
 
 ## 🔷 Professional Experience
 
