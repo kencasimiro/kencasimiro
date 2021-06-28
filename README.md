@@ -17,7 +17,7 @@ I'm currently a 3rd year computer engineering major at [UC San Diego](https://uc
 * 👨🏽‍💻 Scrum Master for numerous software projects in CS1C and CS1D.
 
 
-## :link: Important links
+## :link: Important Links
 [__Linkedin__](https://www.linkedin.com/in/kencasimiro/) • [__Website__](google.com) • [__Email__](mailto:kennethreyescasimiro@gmail.com)
 
 <!--
