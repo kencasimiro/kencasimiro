@@ -12,7 +12,7 @@ I'm currently a 3rd year computer engineering major at [UC San Diego](https://uc
 
 ## 🔶 Leadership Experience
 
-* 💾 President (2021), Vice President (2020), and Co-founder (2019) of [ACM](https://www.acm.org/) Saddleback Student Chapter 
+* 💾 President (2021), Vice President (2020), and Co-founder (2019) of [ACM](https://www.acm.org/) Saddleback College Student Chapter 
 * 🇺🇸 Head of Student Outreach and Secretrary of the [SAME](https://www.same.org/) Student Chapter (2019 - 2021)
 * 👨🏽‍💻 Scrum Master for numerous software projects in CS1C and CS1D.
 
