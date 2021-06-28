@@ -9,6 +9,13 @@ I'm currently a 3rd year computer engineering major at [UC San Diego](https://uc
 *  🐜 Research Fellow at  [Base 11 - UC Irvine Autonomous Systems Engineering Academy](https://www.base11.com/solutions/asea/) - Summer 2020
 *  📚 Computer Science Tutor at [Saddleback College](https://www.saddleback.edu/) - Summer 2019 to Summer 2021
 
+
+## 🔶 Leadership Experience
+
+* 💾 President (2021), Vice President (2020), and Co-founder (2019) of ACM Saddleback Student Chapter
+* 🇺🇸 Head of Student Outreach and Secretrary of the Society of American Military Engineers Student Chapter
+* 👨🏽‍💻 Scrum Master for numerous software projects in CS1C and CS1D.
+
 <!--
 **kencasimiro/kencasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
