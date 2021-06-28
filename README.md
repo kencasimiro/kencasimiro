@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋🏼 Hey, I'm Ken! 
+
+I'm currently a 3rd year computer engineering major at UC San Diego doing software development on the side. I go to a bunch of hackathons and contribute to open source projects in my free time. Thanks for visiting my profile! 
+
+## 🔷 Activities and Involvements
+
+*  Hobbyist programmer now doing supercomputer stuff. Interning as a software engineer intern this summer at Berkeley Lab.
 
 <!--
 **kencasimiro/kencasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
