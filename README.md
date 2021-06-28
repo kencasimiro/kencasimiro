@@ -21,7 +21,7 @@ I'm an incoming computer engineering junior transfer student at [UC San Diego](h
 [__Linkedin__](https://www.linkedin.com/in/kencasimiro/) • [__Website__](google.com) • [__Email__](mailto:kennethreyescasimiro@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kencasimiro&layout=default&theme=highcontrast)](https://github.com/kencasimiro/github-readme-stats) [![kencasimiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kencasimiro&count_private=true&show_icons=true&theme=highcontrast&layought=default)](https://github.com/kencasimiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kencasimiro&layout=compact&theme=highcontrast)](https://github.com/kencasimiro/github-readme-stats) [![kencasimiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kencasimiro&count_private=true&show_icons=true&theme=highcontrast&layought=compact)](https://github.com/kencasimiro/github-readme-stats)
 
 
 
