@@ -21,7 +21,14 @@ I'm an incoming computer engineering junior transfer student at [UC San Diego](h
 [__Linkedin__](https://www.linkedin.com/in/kencasimiro/) • [__Website__](google.com) • [__Email__](mailto:kennethreyescasimiro@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kencasimiro&layout=compact&theme=merko)](https://github.com/kencasimiro/github-readme-stats) [![kencasimiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kencasimiro&count_private=true&show_icons=true&theme=merko&layought=compact)](https://github.com/kencasimiro/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/kencasimiro/kencasimiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencasimiro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/kencasimiro/kencasimiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kencasimiro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kenneth's GitHub Stats" />
+</a>
 
 
 
