@@ -1,6 +1,6 @@
 ## <img src="https://github.com/kencasimiro/kencasimiro/blob/main/wave.gif" width="30px"> Hey, I'm Kenneth! 
 
-I'm an incoming computer engineering junior transfer student at [UC San Diego](https://ucsd.edu) this Fall. This summer I am interning at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
+I'm a rising junior [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. This past summer I interned at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
 
 ## 🔷 Professional Experience
 
