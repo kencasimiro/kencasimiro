@@ -12,7 +12,7 @@ I'm a rising junior [UC San Diego](https://ucsd.edu) this year majoring in compu
 
 ## 🔶 Leadership Experience
 
-* 📚 Academic Integrity Mentor for the Academic Integrity Office at University of California, San Diego (2021 - Present)
+* 👨🏽‍🏫 Academic Integrity Mentor for the Academic Integrity Office at University of California, San Diego (2021 - Present)
 * 💾 President (2021), Vice President (2020), and Co-founder (2019) of the [ACM](https://www.acm.org/) Saddleback College Student Chapter 
 * 🇺🇸 Head of Student Outreach and Secretrary of the [SAME](https://www.same.org/) Student Chapter (2019 - 2021)
 * 👨🏽‍💻 Scrum Master for numerous software projects in CS1C and CS1D.
