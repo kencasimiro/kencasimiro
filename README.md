@@ -1,6 +1,6 @@
 ## <img src="https://github.com/kencasimiro/kencasimiro/blob/main/wave.gif" width="30px"> Hey, I'm Kenneth! 
 
-I'm a rising junior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. This past summer I interned at Lawrence Berkeley National Laboratory, contributing to the Department of Energy's Exascale Computing Project.
+I'm a rising junior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. I am an incoming Software Engineering Intern for Northrop Grumman - Mission Systems in San Diego, California for Summer 2022.
 
 ## 🔷 Professional Experience
 
@@ -12,7 +12,7 @@ I'm a rising junior at [UC San Diego](https://ucsd.edu) this year majoring in co
 
 ## 🔶 Leadership Experience
 
-* 👨🏽‍🏫 Academic Integrity Mentor for the Academic Integrity Office at University of California, San Diego (2021 - Present)
+* 👨🏽‍🏫 Academic Integrity Mentor for the Academic Integrity Office at University of California, San Diego (2021 - 2022)
 * 💾 President (2021), Vice President (2020), and Co-founder (2019) of the [ACM](https://www.acm.org/) Saddleback College Student Chapter 
 * 🇺🇸 Head of Student Outreach and Secretrary of the [SAME](https://www.same.org/) Student Chapter (2019 - 2021)
 * 👨🏽‍💻 Scrum Master for numerous software projects in CS1C and CS1D.
