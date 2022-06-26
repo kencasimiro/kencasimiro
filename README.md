@@ -1,4 +1,4 @@
-## <img src="https://github.com/kencasimiro/kencasimiro/blob/main/wave.gif" width="10px"> Hey, I'm Kenneth! 
+## <img src="https://github.com/kencasimiro/kencasimiro/blob/main/wave.gif" width="5px"> Hey, I'm Kenneth! 
 
 I'm a rising senior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. Currently, I am a Software Engineering Intern for [Northrop Grumman - Mission Systems](https://www.northropgrumman.com/) in San Diego, California for Summer 2022.
 
