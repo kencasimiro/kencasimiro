@@ -1,9 +1,9 @@
 ## Hey, I'm Kenneth! 
 
-I'm a rising senior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. Currently, I am a Software Engineering Intern for [Northrop Grumman - Mission Systems](https://www.northropgrumman.com/) in San Diego, California for Summer 2022.
+I'm a rising senior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. Currently, I am a Software Engineering Intern for [Northrop Grumman - Mission Systems](https://www.northropgrumman.com/) in San Diego, California for Summer 20223.
 
 ## 🔷 Professional Experience
-*  🛰 Software Engineer Intern at [Northrop Grumman](https://www.northropgrumman.com/) in the [Mission Systems](https://www.northropgrumman.com/who-we-are/business-sectors/mission-systems/) Division (Summer 2022)
+*  🛰 Software Engineer Intern at [Northrop Grumman](https://www.northropgrumman.com/) in the [Mission Systems](https://www.northropgrumman.com/who-we-are/business-sectors/mission-systems/) Division (Summer 2023)
 *  💻 Software Engineer Intern at [Berkeley Lab](https://www.lbl.gov/) for the [Scientific Data Management Group](https://sdm.lbl.gov/) (Summer 2021)
 *  🚀 Research Intern at [NASA JPL](https://www.jpl.nasa.gov) for the [Roman CGI Science Team](https://www.jpl.nasa.gov/missions/the-nancy-grace-roman-space-telescope) (Spring 2021)
 *  🐜 Research Fellow at  [Base 11 - UC Irvine Autonomous Systems Engineering Academy](https://www.base11.com/solutions/asea/) (Summer 2020)
