@@ -1,6 +1,6 @@
 ## Hey, I'm Kenneth! 
 
-I'm a rising senior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. Currently, I am a Software Engineering Intern for [Northrop Grumman - Mission Systems](https://www.northropgrumman.com/) in San Diego, California for Summer 20223.
+I'm a senior at [UC San Diego](https://ucsd.edu) this year majoring in computer engineering. Currently, I am a Software Engineering Intern for [Northrop Grumman - Mission Systems](https://www.northropgrumman.com/) in San Diego, California for Summer 20223.
 
 ## 🔷 Professional Experience
 *  🛰 Software Engineer Intern at [Northrop Grumman](https://www.northropgrumman.com/) in the [Mission Systems](https://www.northropgrumman.com/who-we-are/business-sectors/mission-systems/) Division (Summer 2023)
